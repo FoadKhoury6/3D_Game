@@ -1,1 +1,1 @@
-FoadKhoury_Project : includes the code & Project Book.
+FoadKhoury_Project includes the code.
